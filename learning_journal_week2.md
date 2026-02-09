@@ -5,6 +5,7 @@
 - Resources I used are as follows:
 - https://www.ovhcloud.com/en-au/web-hosting/uc-cms-comparison/
 - https://www.ibm.com/think/topics/content-management-system
+- https://www.youtube.com/playlist?list=PLfSKNy3g_Dsx6rXZVjrgagHvYJ3DG-5pE
 
 ### Estimated Hours
 - This week I would have spent 4 hours of my own time on this subject.
