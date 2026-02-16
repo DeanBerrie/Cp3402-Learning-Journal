@@ -3,8 +3,8 @@
 ### Learning Activities and Resources
  - This week I stood to understand the basic principles of the wordpress CMS, learning to navigate and use the different features effectively.
  - Resources used: 
-https://learn.wordpress.org/course/beginner-wordpress-user/
-https://www.youtube.com/watch?v=UT3No6nswz8
+- https://learn.wordpress.org/course/beginner-wordpress-user/
+- https://www.youtube.com/watch?v=UT3No6nswz8
 
 ### Estimated Hours
 This week I spent 5 hours on this subject.
