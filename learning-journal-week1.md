@@ -9,7 +9,7 @@
 ### Estimated Hours
 - I Spent around 2.5 Hours of time learning through this week
 ### Content Insights
--Revising HTML and CSS was a really important starting point for working with content management systems, because it refreshed the core web design knowledge that CMS platforms are built on. It reminded me of key design principles such as call to action, colour theory, and UI/UX design, and how these are actually implemented through code.
+- Revising HTML and CSS was a really important starting point for working with content management systems, because it refreshed the core web design knowledge that CMS platforms are built on. It reminded me of key design principles such as call to action, colour theory, and UI/UX design, and how these are actually implemented through code.
 While I still remembered the basic HTML and CSS I used previously (such as headings, paragraphs, images and links), I realised there were some gaps in my knowledge. In particular, I needed to revise HTML elements that I hadn’t used as often before, like forms with different input types (radio buttons, text areas, etc.). I also needed to re-learn parts of CSS such as layout spacing, margin, and padding to properly structure pages.
 This showed me that even though CMS platforms make building websites easier, understanding the underlying HTML and CSS is still important for making better design decisions, customising content, and fixing issues when they come up.
 
