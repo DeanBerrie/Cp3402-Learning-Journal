@@ -21,6 +21,7 @@ Overall, this week helped me build a strong foundation in WordPress and better u
 ### Group Formation Meeting Notes
 Interview prac 3:
 
+#### inteviewee 1
 - Name: Cheyenne
 - Schedule?: Flexible, not avaliable wednesdays
 - What are you aiming for? eg. hd: Pass or HD
@@ -29,6 +30,7 @@ Interview prac 3:
 - Preferred role in team project?: Flexible
 - Preffered group size?: 2-3
 
+#### Interviewee 2
 - Name:Nick
 - Schedule?: Mostly free monday tuesday, not really on wednesday thursday and on friday
 - What are you aiming for?: HD
@@ -37,6 +39,8 @@ Interview prac 3:
 - Preffered role in team project?: Doing what others don't want to
 - Preffered group size?: 3-4
 
+
+#### Interviewee 3
 - Name: Zack
 - Schedule?: Any day is fine but not monday/tuesday
 - What are you aiming for?: HD
