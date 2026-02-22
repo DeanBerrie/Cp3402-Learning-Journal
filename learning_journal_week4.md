@@ -2,7 +2,7 @@
 
 ### Learning Activities & Resources
 - This week was about setting up a local environment to run wordpress on. So for this week I researched and understood docker containers and their uses and implementations. I also saw that in learnjcu the tutorial for setup in the lecture videos used vagrant with virutalbox, so I also experimented setting up the local environment using this tool aswell to compare advantages and disadvantages of both.
-- Resources
+- Resources:
 - learnjcu
 - https://www.youtube.com/watch?v=sOYXRg1m5VQ
 - https://jackreichert.com/2017/05/14/how-to-set-up-a-local-wordpress-vagrant-development-environment/
