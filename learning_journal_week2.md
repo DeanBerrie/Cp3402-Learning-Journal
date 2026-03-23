@@ -1,17 +1,34 @@
 # Week 2
 
-### Learning Activities and Resources
-- This week I was focused on deepening my knowledge on the uses and functions of content managment systems while also learning the advantages and disadvantages of some of the most popular content managment systems.
-- Resources I used are as follows:
+### Learning Activities & Resources
+
+- This week I focused on deepening my understanding of the uses and functions of content management systems (CMS), as well as exploring the advantages and disadvantages of some of the most popular CMS platforms. This helped build a foundational understanding before beginning practical work with Joomla.
+
+Resources:
 - https://www.ovhcloud.com/en-au/web-hosting/uc-cms-comparison/
 - https://www.ibm.com/think/topics/content-management-system
-- https://www.youtube.com/playlist?list=PLfSKNy3g_Dsx6rXZVjrgagHvYJ3DG-5pE
+- https://www.youtube.com/watch?v=dzdrt3BI0l8
+
+In addition to this research, I also began preparing for the practical by looking into the basic fundamentals of Joomla and how to navigate its interface before actively using it.
 
 ### Estimated Hours
-- This week I would have spent 4 hours of my own time on this subject.
+
+- This week I spent approximately 4 hours of my own time on this subject.
 
 ### Content Insights
-- Understanding how CMS's work and the advantages/disadvantages is important to build a baseline knowledge of what we will be doing in future pracs and assignments. Before starting the practical on joomla I also researched the basic fundamentals of joomla, and how to properly navigate the service before using it.  
 
-### Career/Employability/Learning Insights
-- Being able to understand the uses of each of the most popular CMS's and how to use them will be very useful in creating websites in the future, having the baseline knowledge of a few of the most popular CMS's is vital as different companies use different CMS's and being able to easily use a variety of these content management systems will be important. From incorporating a research first approach this week I found the completion of the practical was easier and deepened my understanding of the content, however in the future I think it would be best to go back to what I learnt a few days after the practical to properly remember what I learnt. 
+- Understanding how CMS platforms work, along with their advantages and disadvantages, is important for building a baseline knowledge that will support future practicals and assignments. Through my research, I learned that CMS platforms are designed to simplify website creation by providing a user-friendly interface for managing content without needing to code everything from scratch.
+
+- One key insight was how different CMS platforms prioritise different strengths. Some focus more on ease of use and quick setup, while others offer greater flexibility and customisation but require more technical knowledge. This means the choice of CMS depends heavily on the project requirements, such as whether the goal is to quickly launch a simple site or build a more complex, scalable system.
+
+- I also learned that themes/templates play a major role in how a site is presented, and that even small customisations (such as colours, layouts, and fonts) can significantly change how professional a site looks compared to a default installation. This reinforced the importance of design in user experience.
+
+- Another insight was the importance of understanding how content is structured within a CMS. Things like pages, menus, and media are interconnected, and poor organisation can make a site difficult to navigate or manage. Preparing by exploring Joomla beforehand helped me better understand this structure, making it easier to approach the practical task.
+
+- Finally, I realised that while CMS platforms reduce the need for coding, they still require logical thinking and planning. Setting up a site involves decisions about structure, navigation, and content placement, which are all important for creating an effective and user-friendly website.
+
+ ### Career/Employability/Learning Insights
+
+- Developing an understanding of multiple CMS platforms is valuable for future employment, as different companies rely on different systems. Having baseline knowledge across several popular CMS options will make it easier to adapt in a professional environment and work with a variety of web development tools.
+
+- Using a research-first approach this week made the practical component easier and improved my overall understanding of the content. However, I also recognised that revisiting the material a few days after completing the practical would help reinforce what I have learned and improve long-term retention.
