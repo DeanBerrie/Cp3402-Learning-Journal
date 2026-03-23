@@ -9,15 +9,17 @@
 ### Estimated Hours
 This week I spent 5 hours on this subject.
 ### Content Insights
-Through this practical, I learned the basics of how WordPress works as a content management system. I became familiar with the dashboard, including how to create pages, edit content, install themes, and manage plugins.
-I learned that WordPress themes control the design of the website, while plugins add extra functionality such as contact forms or SEO tools. Compared to Joomla, I found WordPress more intuitive and easier to navigate, especially when creating and editing pages.
-I also learned how important it is to structure a site properly from the beginning, including setting menus and page hierarchy, as this makes the site easier to use and manage later.
+- I gained a strong understanding of how WordPress functions as a CMS, particularly how content management, site structure, and customization work together. Navigating the dashboard allowed me to see how pages, posts, and menus are organized, and how they contribute to overall site usability.
+- Themes and plugins became clearer in their purpose: themes control the visual design and layout, while plugins add functionality such as SEO optimization, contact forms, and analytics. Recognizing the difference between design and functionality helped me understand best practices for site architecture.
+- I learned that early planning of site hierarchy, menus, and page structure is crucial. A well-structured site is easier to manage, improves user experience, and reduces the likelihood of errors or inefficiencies later in the development process.
+Comparing WordPress with Joomla highlighted WordPress’s intuitive interface and user-friendly workflow, making it particularly accessible for both beginners and professional developers.
 
 ### Career/Employability/Learning Insights
-This task helped me understand a widely used industry tool, as WordPress is one of the most popular CMS platforms used by businesses and freelance developers. Having basic experience with WordPress will be valuable for future employment, especially in web design or digital content roles.
-Working through the practical also showed me that hands-on learning is the most effective way for me to understand web development tools. Setting up the site myself and troubleshooting issues helped me build confidence in using WordPress.
-The group formation activity also helped me understand what myself and others are looking for when completing assignment two and is gave an idea on who I want to group up with.
-Overall, this week helped me build a strong foundation in WordPress and better understand how CMS platforms are used in real-world web development projects.
+- This week highlighted how foundational knowledge of a CMS like WordPress forms the backbone of practical web development skills. By navigating the dashboard, creating pages, and experimenting with themes and plugins, I learned not just what tools do, but why they are structured in that way. Understanding the separation between design (themes) and functionality (plugins) helped me see how complex websites are modular and maintainable.
+- I discovered that hands-on experimentation is far more effective for me than passive learning. Actively setting up pages, troubleshooting errors, and customizing themes reinforced my understanding in a way that watching tutorials alone could not. These challenges encouraged me to think critically about problem-solving, such as why certain plugins might conflict or how content hierarchy impacts user experience.
+- Planning and structuring content early became an important insight. Learning to organize menus, pages, and posts strategically showed me how forethought in the design phase can reduce errors and simplify ongoing maintenance. This reinforced the concept that thoughtful planning is as important as technical execution in web development.
+Comparing WordPress to other CMS platforms, like Joomla, strengthened my ability to evaluate tools critically. I understood why WordPress is widely adopted due to its intuitive interface and flexibility, which gave me perspective on how different systems balance usability and customization.
+- Finally, I realized that learning is iterative. Revisiting concepts such as page hierarchy, plugin functionality, and theme customization multiple times helped consolidate my understanding. This reinforced the importance of reflection alongside hands-on practice, showing me that true mastery comes from combining experimentation, evaluation, and refinement.
 ### Group Formation Meeting Notes
 Interview prac 3:
 
@@ -28,7 +30,7 @@ Interview prac 3:
 - Prefer online/meeting in person?: Doesn't matter
 - Confidence level on the subject so far?: Pretty good
 - Preferred role in team project?: Flexible
-- Preffered group size?: 2-3
+- Prefered group size?: 2-3
 
 #### Interviewee 2
 - Name:Nick
@@ -36,8 +38,8 @@ Interview prac 3:
 - What are you aiming for?: HD
 - Prefer online/meeting in person?: Doesn't care
 - Confidence level on subject so far?: Medium
-- Preffered role in team project?: Doing what others don't want to
-- Preffered group size?: 3-4
+- Prefered role in team project?: Doing what others don't want to
+- Prefered group size?: 3-4
 
 
 #### Interviewee 3
@@ -46,5 +48,5 @@ Interview prac 3:
 - What are you aiming for?: HD
 - Prefer online/meeting in person?: Either
 - Confidence level on the subject so far?: 75%
-- Preffered role in team project?: Not the leader, documentation
-- Preffered group size?: 3-4
+- Prefered role in team project?: Not the leader, documentation
+- Prefered group size?: 3-4
